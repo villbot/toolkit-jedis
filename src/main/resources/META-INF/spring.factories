@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.vimor.toolkit.jedis.JedisConfigAutoConfiguration,\
+  cn.vimor.toolkit.jedis.JedisAutoConfiguration,cn.vimor.toolkit.jedis.GlobalLockAutoConfiguration
